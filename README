@@ -1,0 +1,9 @@
+facesum
+
+A python script to turn a short bit of data into an image of a human face.
+
+Dependencies:
+  makehuman-commandline
+    https://bitbucket.org/duststorm01/makehuman-commandline
+  blender in PATH
+    https://www.blender.org/
